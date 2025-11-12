@@ -1,0 +1,5 @@
+{
+  "name": "Authenticity & Coherence Evaluator",
+  "description": "An AI-powered application to evaluate the authenticity and coherence of public figures. It includes a self-assessment feature to understand how personal biases might influence perceptions.",
+  "requestFramePermissions": []
+}
